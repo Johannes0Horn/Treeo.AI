@@ -19,9 +19,9 @@ Outputs:
 Requirements:
 - OpenCV, Can be downloaded from here: https://docs.opencv.org/master/opencv.js
 
-Example and Visualization:
+## Example and Visualization:
 
-[Example in Browser](https://www.google.com)https://johannes0horn.github.io/masksToDiameterService/ "Example")
+[Example in Browser](https://johannes0horn.github.io/masksToDiameterService/ "Example")
 
 ![alt text](https://github.com/Johannes0Horn/masksToDiameterService/blob/master/screenshot.png)
 
