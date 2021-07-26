@@ -1,7 +1,7 @@
 const MODEL_URL = 'deeplab_model_trained/tensorflowjs_model.pb';
 const WEIGHTS_URL = 'deeplab_model_trained/weights_manifest.json';
 const img_dir = '/trunk_diameter_testdata/';
-const testdatatxt = '/trunk_diameter_testdata.txt'
+const testdatatxt = 'trunk_diameter_testdata.txt'
 
 var closingFactorCard = 10//10;
 var openingFactorCard = 10//10;
