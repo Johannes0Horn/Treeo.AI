@@ -1,6 +1,6 @@
 const MODEL_URL = 'deeplab_model_trained/tensorflowjs_model.pb';
 const WEIGHTS_URL = 'deeplab_model_trained/weights_manifest.json';
-const img_dir = '/trunk_diameter_testdata/';
+const img_dir = 'https://github.com/Johannes0Horn/masksToDiameterService/tree/gh-pages/trunk_diameter_testdata/';
 const testdatatxt = 'trunk_diameter_testdata.txt'
 
 var closingFactorCard = 10//10;
