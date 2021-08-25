@@ -1,4 +1,4 @@
-# masksToDiameterService
+# Treeo.AI: A masks to diameter service based on deeplabV3+
 
 A Script to calculate the diameter of a trunk from the output of deeplabV3+, trained with treeo dataset.
 
