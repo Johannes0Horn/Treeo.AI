@@ -23,7 +23,7 @@ Requirements:
 
 Using the model trained with [deeplab-custom-dataset](https://github.com/Johannes0Horn/deeplab-custom-dataset "deeplab-custom-dataset") one can predict the diameter of a trunk from a photo of the trunk and a regular credit card.
 
-[Example in Browser](https://johannes0horn.github.io/masksToDiameterService/ "Example")
+[Example in Browser](https://johannes0horn.github.io/Treeo.AI/ "Example")
 
 ![alt text](https://github.com/Johannes0Horn/masksToDiameterService/blob/master/screenshot.png)
 
